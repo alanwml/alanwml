@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Alan, a freshly graduate Software Engineer!
+
+- 🌱 I’m currently learning Agent Frameworks with Python!
+- ⚡ Fun fact: I love to play games!
+
 <!--
 **alanwml/alanwml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
